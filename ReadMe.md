@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou cursando Engenharia Elétrica junto aos estudos da programação. Tenho trabalhado em pequenos projetos pessoais baseados em Java Script, HTML, CSS e Python. Iniciando os estudos em Cyber Security e nas horas vagas gosto de gatos e academia. 
+Atualmente estou cursando Engenharia Elétrica junto aos estudos da programação. Tenho trabalhado em pequenos projetos pessoais baseados em JavaScript, HTML, CSS e Python. Iniciando os estudos em Cyber Security e nas horas vagas gosto de gatos e academia. 
 
 
 ## 🌐 Socials:
