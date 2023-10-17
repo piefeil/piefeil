@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduando em Engenharia Elétrica e Desenvolvedor Fullstack. Iniciando os estudos em Cyber Security e Ciências de Dados, nas horas vagas gosto de gatos e academia.
+Graduando em Engenharia Elétrica e Desenvolvedor Full Stack. Iniciando os estudos em Cyber Security e Ciências de Dados, nas horas vagas gosto de gatos e academia.
 
 
 ## 🌐 Socials:
