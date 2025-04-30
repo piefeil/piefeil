@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduando em Engenharia Elétrica e Desenvolvedor Full Stack. Iniciando os estudos em Cyber Security e Ciências de Dados, nas horas vagas gosto de gatos e academia.
+Graduando em Ciência da Computação e Desenvolvedor Full Stack, com sólida base em tecnologias de front-end e back-end. Atualmente ampliando meus conhecimentos nas áreas de Cyber Security e Ciência de Dados, com foco em construir soluções mais seguras, inteligentes e eficientes.
 
 
 ## 🌐 Socials:
